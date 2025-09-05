@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Manager",
+  "description": "Manage, search, save, and restore your tabs easily.",
+  "version": "1.0.0",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
