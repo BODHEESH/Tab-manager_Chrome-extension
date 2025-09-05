@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Tab Manager",
+  "name": "Bodhi Tab Manager",
   "description": "Manage, search, save, and restore your tabs easily.",
   "version": "1.0.0",
   "permissions": ["tabs", "storage"],
